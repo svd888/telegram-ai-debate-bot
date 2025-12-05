@@ -1,0 +1,25 @@
+# Telegram Bot
+python-telegram-bot==21.0.1
+
+# HTTP клиент
+aiohttp==3.9.5
+requests==2.32.3
+
+# Валидация данных
+pydantic==2.7.4
+pydantic-settings==2.3.4
+
+# Конфигурация
+python-dotenv==1.0.1
+PyYAML==6.0.1
+
+# База данных (опционально)
+aiosqlite==0.20.0
+
+# Утилиты
+python-dateutil==2.9.0
+loguru==0.7.2
+
+# Тестирование
+pytest==8.2.2
+pytest-asyncio==0.23.7
